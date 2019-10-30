@@ -4,7 +4,7 @@
 
 For this lab we will use a candy dataset collected by [www.fivethirtyeight.com](https://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/). Additional details about the dataset are available below (courtesy of Kaggle).
 
-```{r, message = F}
+```
 candy <- read_csv('http://math.montana.edu/ahoegh/teaching/stat446/candy-data.csv')
 candy
 ```
